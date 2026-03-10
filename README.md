@@ -1,3 +1,21 @@
+<h1 align="center">🛡️ Linux Hardening Tool</h1>
+
+<p align="center">
+Ferramenta para aplicar hardening automático em sistemas Linux.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Linux-Security-blue?style=for-the-badge&logo=linux">
+<img src="https://img.shields.io/badge/Shell-Bash-green?style=for-the-badge&logo=gnu-bash">
+<img src="https://img.shields.io/badge/Status-Development-orange?style=for-the-badge">
+</p>
+
+![GitHub repo size](https://img.shields.io/github/repo-size/aysla-vitoria/linux-hardening-tool)
+![GitHub stars](https://img.shields.io/github/stars/aysla-vitoria/linux-hardening-tool)
+![GitHub forks](https://img.shields.io/github/forks/aysla-vitoria/linux-hardening-tool)
+![GitHub last commit](https://img.shields.io/github/last-commit/aysla-vitoria/linux-hardening-tool)
+
+
 # 🛡️ Linux Hardening & Audit Tool
 
 Script em Bash desenvolvido para automatizar a segurança inicial e auditoria de servidores baseados em Debian/Ubuntu. 
