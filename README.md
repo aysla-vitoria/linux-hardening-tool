@@ -28,7 +28,7 @@ Script em Bash desenvolvido para automatizar a segurança inicial e auditoria de
 ## 🛠️ Como usar
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/linux-hardening-tool.git](https://github.com/SEU-USUARIO/linux-hardening-tool.git)
+   git clone https://github.com/aysla-vitoria/linux-hardening-tool.git
 
 2. Dê permissão de execução:
     
