@@ -42,4 +42,8 @@ Script em Bash desenvolvido para automatizar a segurança inicial e auditoria de
 📝 Lições Aprendidas
 Durante o desenvolvimento, explorei manipulação de arquivos com sed, lógica de permissões Linux, e gerenciamento de serviços com systemctl.
 
+
+
+https://github.com/user-attachments/assets/80047f1b-32ba-4ccc-ac6f-fbb777a46cd3
+
    
