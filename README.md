@@ -16,7 +16,6 @@ Ferramenta para aplicar hardening automático em sistemas Linux.
 ![GitHub last commit](https://img.shields.io/github/last-commit/aysla-vitoria/linux-hardening-tool)
 
 
-# 🛡️ Linux Hardening & Audit Tool
 
 Script em Bash desenvolvido para automatizar a segurança inicial e auditoria de servidores baseados em Debian/Ubuntu. 
 
